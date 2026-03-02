@@ -4,10 +4,11 @@
     <!-- <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css"> -->
 
     <?php wp_head(); ?>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <nav class="main-menu">
-        <div class="head-logo">
+    <nav class="main-menu ">
+        <div class="head-logo ">
             <?php the_custom_logo(); ?>
 
         </div>
@@ -21,7 +22,7 @@
         </div>
 
         <div class="cl-btn">
-            <button>Submit</button>
+            <button class="cart-button">Cart</button>
         </div>
     </nav>
 </body>

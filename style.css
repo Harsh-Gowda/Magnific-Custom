@@ -38,11 +38,9 @@ body { background: #000; color: #fff;
     background-color: #333;
     color: aliceblue;
  }
- .main-footer{
-    padding-bottom: 20px;
-    padding-left:50px;
- }
+
  .main-menu{
+   
     padding: 0px 20px;
     /* height: 50px; */
     display:flex;
@@ -52,7 +50,7 @@ body { background: #000; color: #fff;
  }
  .head-logo img{
     width: 200px;
-    height: 100px;
+    height: 50px;
  }
  .nav-menu{
     display: flex;
@@ -63,4 +61,10 @@ body { background: #000; color: #fff;
  .nav-menu a{
     text-decoration: none;
     color: #ffffff;
+ }
+ .cart-button{
+   background-color: #01c3d1;
+   padding: 10px 50px;
+   border-radius: 5px;
+   border: none;
  }
