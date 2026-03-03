@@ -6,7 +6,7 @@
                 <div>
                     <h2 class="text-white font-semibold  text-[30px] pb-2">50+ store all over India</h2>
                      <h2 class="text-white font-semibold  text-lg">Find near by store</h2>
-                     
+
                 </div>
                 <div>
                     <h2 class="text-white font-semibold  text-[30px]">></h2>
@@ -141,7 +141,7 @@
 
 
     </div>
-    <div class="w-full px-20  ">
+    <div class="w-full px-20 ">
         <hr> 
         <div class="flex list-none flex-row py-10">
              
@@ -160,6 +160,11 @@
                     <li>Colossal Fans</li>
                     <li>Designer Exhaust Fans</li>
                     <li>Standing Fans</li>
+        </div>
+        <hr> 
+        <div class="flex flex-row gap-3 items-center justify-center py-5">
+            <h1 class="text-sm text-white">Copyright © <?php echo date("Y")?> Magnific Home Appliances. All rights reserved. </h1>
+            <h1 class="text-sm text-white">Terms of Use | Privacy Policy</h1>
         </div>
                
         

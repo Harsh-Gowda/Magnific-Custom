@@ -5,13 +5,10 @@ get_header();
 
 ?>
 
-<div class="home-hero">
+<div class="home-hero w-full h-screen relative">
       <?php the_post_thumbnail(); ?>
 </div>
 
 
 
-<?php 
-
-get_footer();
-?>
+<?php get_footer(); ?>

@@ -18,7 +18,8 @@
                 'theme_location' => 'primary',
                 'container' => false,
                 'menu_class' => 'nav-menu'
-                )); ?>
+                )); 
+            ?>
         </div>
 
         <div class="cl-btn">
