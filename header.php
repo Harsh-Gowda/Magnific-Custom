@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <nav class="main-menu ">
+    <nav class="main-menu p-4">
         <div class="head-logo ">
             <?php the_custom_logo(); ?>
 
