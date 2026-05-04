@@ -12,7 +12,7 @@ function theme_setup() {
     register_nav_menus(array('primary'=> 'Primary-Menu',
     'footer' => 'Footer-Menu'));
 }
-add_action('after_setup_theme','theme_setup');
+add_action('after_setup_theme','theme_setup'); 
 
 add_filter('show_admin_bar','__return_false'); // to hide admin bar on frontend unnessary links for clients
 

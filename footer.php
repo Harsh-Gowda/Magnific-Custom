@@ -23,16 +23,16 @@
                 </div>
             </div>
     </div>
-    <div class="w-full p-20 flex flex-direction-column gap-10 ">
+    <div class="w-full p-20 flex flex-direction-column gap-10 bg-[#ffffff] ">
         <div class="w-1/5 gap-20">
             <div class="pb-4"><?php the_custom_logo(); ?> </div>
             <div class="pb-4">
-                <h1>Corporate Office</h1>
-            <p>Magnific Home Appliances 0114/16 PID NO 41-22-01 14/16, Deepanjalinagar Layout In, Gali Anjaneya Temple, Bangalore - 560026.</p>
+                <h1 class="text-black">Corporate Office</h1>
+            <p class ="text-black">Magnific Home Appliances 0114/16 PID NO 41-22-01 14/16, Deepanjalinagar Layout In, Gali Anjaneya Temple, Bangalore - 560026.</p>
             </div>
             <div class="pb-4">
-                <h1>Koramangala Showroom</h1>
-            <p>#No.42/1, 1st Floor, I-Towers, 100ft Intermediate Ring Road Near Oasis Mall, Ejipura, Koramangala, Bangalore - 560047</p>
+                <h1 class="text-black">Koramangala Showroom</h1>
+            <p class="text-black">#No.42/1, 1st Floor, I-Towers, 100ft Intermediate Ring Road Near Oasis Mall, Ejipura, Koramangala, Bangalore - 560047</p>
 
             </div>
             
@@ -40,7 +40,7 @@
         <div class="w-1/5">
           
                  <h1 class="text-[#00acec] font-semibold text-xl pb-5">Designer Fans</h1>   
-                 <ul class="text-white gap-2 text-sm">
+                 <ul class="text-black gap-2 text-sm">
                     <li class="font-extralight">Bladeless Fans</li>
                     <li>Fandelier Fans</li>
                     <li>Crystal Fans</li>
@@ -65,7 +65,7 @@
          <div class="w-1/5">
           
                  <h1 class="text-[#00acec] font-semibold text-xl pb-5">Designer Fans</h1>   
-                 <ul class="text-white gap-2 text-sm">
+                 <ul class="text-black gap-2 text-sm">
                     <li class="font-extralight">Bladeless Fans</li>
                     <li>Fandelier Fans</li>
                     <li>Crystal Fans</li>
@@ -90,7 +90,7 @@
          <div class="w-1/5">
           
                  <h1 class="text-[#00acec] font-semibold text-xl pb-5">Designer Fans</h1>   
-                 <ul class="text-white gap-2 text-sm">
+                 <ul class="text-black gap-2 text-sm">
                     <li class="font-extralight">Bladeless Fans</li>
                     <li>Fandelier Fans</li>
                     <li>Crystal Fans</li>
@@ -115,7 +115,7 @@
          <div class="w-1/5">
           
                  <h1 class="text-[#00acec] font-semibold text-xl pb-5">Designer Fans</h1>   
-                 <ul class="text-white gap-10 text-sm">
+                 <ul class="text-black gap-10 text-sm">
                     <li class="font-extralight">Bladeless Fans</li>
                     <li>Fandelier Fans</li>
                     <li>Crystal Fans</li>
@@ -141,30 +141,30 @@
 
 
     </div>
-    <div class="w-full px-20 ">
+    <div class="w-full px-20 bg-[#ffffff]">
         <hr> 
         <div class="flex list-none flex-row py-10">
              
-                    <li >Fandelier Fans</li>
-                    <li>Crystal Fans</li>
-                    <li>Ultra Modern Contemporary</li>
-                    <li>Vintage Classic Wooden Ceiling Fans</li>
-                    <li>Modern Wooden Fans</li>
-                    <li>Retractable Fans</li>
-                    <li>Openable Blade Fans</li>
-                    <li>Huggers Fans</li>
-                    <li>Kids Infants Fans Collection</li>
-                    <li>Outdoor Collections</li>
-                    <li>Wall Mounting Fans Collections</li>
-                    <li>Grid Fans</li>
-                    <li>Colossal Fans</li>
-                    <li>Designer Exhaust Fans</li>
-                    <li>Standing Fans</li>
+                    <li class="text-black">Fandelier Fans</li>
+                    <li class="text-black">Crystal Fans</li>
+                    <li class="text-black">Ultra Modern Contemporary</li>
+                    <li class="text-black">Vintage Classic Wooden Ceiling Fans</li>
+                    <li class="text-black">Modern Wooden Fans</li>
+                    <li class="text-black">Retractable Fans</li>
+                    <li class="text-black">Openable Blade Fans</li>
+                    <li class="text-black">Huggers Fans</li>
+                    <li class="text-black">Kids Infants Fans Collection</li>
+                    <li class="text-black">Outdoor Collections</li>
+                    <li class="text-black">Wall Mounting Fans Collections</li>
+                    <li class="text-black">Grid Fans</li>
+                    <li class="text-black">Colossal Fans</li>
+                    <li class="text-black">Designer Exhaust Fans</li>
+                    <li class="text-black">Standing Fans</li>
         </div>
         <hr> 
         <div class="flex flex-row gap-3 items-center justify-center py-5">
-            <h1 class="text-sm text-white">Copyright © <?php echo date("Y")?> Magnific Home Appliances. All rights reserved. </h1>
-            <h1 class="text-sm text-white">Terms of Use | Privacy Policy</h1>
+            <h1 class="text-sm text-black">Copyright © <?php echo date("Y")?> Magnific Home Appliances. All rights reserved. </h1>
+            <h1 class="text-sm text-black">Terms of Use | Privacy Policy</h1>
         </div>
                
         
